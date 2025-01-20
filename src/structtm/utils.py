@@ -4,7 +4,7 @@ def doc_to_ijv(documents):
 
     Parameters
     ----------
-    documents: list of 2D arrays
+    documents : list of 2D arrays
         Each document is represented as a 2-row matrix:
         - First row: Term indices
         - Second row: Term counts.
